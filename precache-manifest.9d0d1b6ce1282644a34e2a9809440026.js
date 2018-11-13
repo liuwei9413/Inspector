@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "fonts/fa-regular-400.bdadb6ce.woff2"
   },
   {
-    "revision": "d502d2bc3c6defab526f",
-    "url": "js/app.73342719.js"
+    "revision": "5d3d9f05dd7ae52bb3fc",
+    "url": "js/app.d81f1ea1.js"
   },
   {
     "revision": "b9009b48d639bd684cc2",
@@ -64,23 +64,23 @@ self.__precacheManifest = [
     "url": "fonts/fa-solid-900.48f54f63.ttf"
   },
   {
-    "revision": "0c41971339b9fc5b1cefb0abad1e2e69",
-    "url": "img/fa-regular-400.0c419713.svg"
-  },
-  {
     "revision": "42f9fd6acee87559ac0d6a33488db65e",
     "url": "img/fa-brands-400.42f9fd6a.svg"
+  },
+  {
+    "revision": "0c41971339b9fc5b1cefb0abad1e2e69",
+    "url": "img/fa-regular-400.0c419713.svg"
   },
   {
     "revision": "4478b4d7022cad174e4c04246fe622ef",
     "url": "img/fa-solid-900.4478b4d7.svg"
   },
   {
-    "revision": "90f552f85a732114d27053f476280b5b",
+    "revision": "9c75df98f9474f2e1e8d2ca90b195117",
     "url": "index.html"
   },
   {
-    "revision": "d502d2bc3c6defab526f",
-    "url": "css/app.c54463c1.css"
+    "revision": "5d3d9f05dd7ae52bb3fc",
+    "url": "css/app.874ede2a.css"
   }
 ];
