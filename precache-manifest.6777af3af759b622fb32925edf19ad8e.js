@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "fonts/fa-regular-400.bdadb6ce.woff2"
   },
   {
-    "revision": "5d3d9f05dd7ae52bb3fc",
-    "url": "js/app.d81f1ea1.js"
+    "revision": "cdb70275b83a7c7fff93",
+    "url": "js/app.9369ec86.js"
   },
   {
     "revision": "b9009b48d639bd684cc2",
@@ -76,11 +76,11 @@ self.__precacheManifest = [
     "url": "img/fa-solid-900.4478b4d7.svg"
   },
   {
-    "revision": "9c75df98f9474f2e1e8d2ca90b195117",
+    "revision": "bc691a31965f87d5d8baae682e8f5215",
     "url": "index.html"
   },
   {
-    "revision": "5d3d9f05dd7ae52bb3fc",
-    "url": "css/app.874ede2a.css"
+    "revision": "cdb70275b83a7c7fff93",
+    "url": "css/app.8ab43aba.css"
   }
 ];
